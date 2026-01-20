@@ -1,0 +1,6 @@
+await ApiService.PostAsync("/breakdown", new
+{
+    Issue = IssueDescription,
+    Latitude = location.Latitude,
+    Longitude = location.Longitude
+});
