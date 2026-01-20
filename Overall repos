@@ -1,0 +1,3 @@
+TruckerBack.Mobile   → .NET MAUI Driver App
+TruckerBack.Api      → ASP.NET Core Backend + DB + SignalR
+TruckerBack.Admin    → Admin Web Dashboard (Blazor)
