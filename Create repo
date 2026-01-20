@@ -1,0 +1,3 @@
+dotnet new maui -n TruckerBack.Mobile
+dotnet add package Microsoft.Maui.Controls.Maps
+dotnet add package Microsoft.AspNetCore.SignalR.Client
