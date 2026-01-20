@@ -1,0 +1,23 @@
+TruckerBack.Mobile
+│
+├── App.xaml
+├── MauiProgram.cs
+│
+├── Models
+├── Services
+│   ├── ApiService.cs
+│   ├── AuthService.cs
+│   ├── LocationService.cs
+│   └── TrackingService.cs
+│
+├── ViewModels
+│   ├── LoginViewModel.cs
+│   ├── MainViewModel.cs
+│   └── BreakdownViewModel.cs
+│
+├── Views
+│   ├── LoginPage.xaml
+│   ├── MainPage.xaml
+│   └── BreakdownPage.xaml
+│
+└── Resources/AppIcon
